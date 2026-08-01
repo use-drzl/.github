@@ -14,13 +14,13 @@
 ## About the org
 
 **DRZL** is a family of open-source projects that turn your data models into **strongly-typed** building blocks.  
-I design small, composable tools you can mix and match across stacks — from schema analyzers to code generators and ready-to-run templates.
+I design small, composable tools you can mix and match across stacks, from schema analyzers to code generators and ready-to-run templates.
 
 **What I build (now and next):**
-- **Analyzers** — parse DB/ORM schemas into a typed graph
-- **Generators** — emit validators, routers, services, and contracts
-- **CLIs** — watch, codegen, and pipeline orchestration
-- **Templates** — opinionated starters you can ship with minimal glue
+- **Analyzers**: parse DB/ORM schemas into a typed graph
+- **Generators**: emit validators, routers, services, and contracts
+- **CLIs**: watch, codegen, and pipeline orchestration
+- **Templates**: opinionated starters you can ship with minimal glue
 
 I care about **DX**, **type safety**, and **predictable outputs** (easy to review, diff, and refactor).
 
@@ -38,8 +38,8 @@ I care about **DX**, **type safety**, and **predictable outputs** (easy to revie
 
 ## Ecosystem & compatibility
 
-My projects aim to play well with popular tools (e.g., Drizzle ORM, Prisma, oRPC, Zod, Valibot, ArkType — with room for tRPC/Express and others).  
-Support and version ranges vary by repo — check each project’s README.
+My projects aim to play well with popular tools (e.g., Drizzle ORM, Prisma, oRPC, Zod, Valibot, ArkType, with room for tRPC/Express and others).  
+Support and version ranges vary by repo, so check each project’s README.
 
 ---
 
